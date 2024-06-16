@@ -1,0 +1,5 @@
+/.cache
+/build
+/not_main
+/not_main.o
+/start.o
